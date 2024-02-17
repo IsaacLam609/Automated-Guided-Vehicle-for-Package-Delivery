@@ -1,6 +1,7 @@
 # Automated-Guided-Vehicle-for-Package-Pickup-and-Sorting
 
 The goal is to design an automated guided vehicle to identify packages and deliver them to designated areas. It is a 4-week project with a team of 7.
+
 Technology used: C++, Arduino
 
 Flowchart:
