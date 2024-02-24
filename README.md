@@ -1,4 +1,4 @@
-# Automated-Guided-Vehicle-for-Package-Pickup-and-Sorting
+# Automated-Guided-Vehicle-for-Package-Delivery
 
 The goal is to design an automated guided vehicle to identify packages and deliver them to designated areas. It is a 4-week project with a team of 7.
 
