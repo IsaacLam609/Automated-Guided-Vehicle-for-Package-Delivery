@@ -1,5 +1,5 @@
 # Automated-Guided-Vehicle-for-Package-Delivery
-### Technology: C++, Arduino, Self-Defined Libraries
+### Technology: C++, Arduino, User-Defined Libraries
 
 The goal is to design an automated guided vehicle to identify packages and deliver them to designated areas. It is a 4-week project with a team of 7.
 
